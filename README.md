@@ -8,4 +8,7 @@ SRCNN_DATA contains the high resolution, low resolution and the SRCNN applied ph
 
 SRCNN has been tested on [NIH Chest X-Ray Scans Dataset](https://www.kaggle.com/nih-chest-xrays/data?select=images_010), .bmp shapes and some real people photos not belonging to any dataset.
 
-Comparison of images has been done on metrics like PSNR,MSE and SSIM.
+Comparison of images has been done on metrics like PSNR,MSE and SSIM. 
+
+E.g. output
+![1](https://github.com/mokshkant7/SRCNN/blob/master/SRCNN_Data/Output/1.png)
